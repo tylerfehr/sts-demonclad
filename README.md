@@ -17,13 +17,13 @@
 - Forgo: Discard a card to trigger its Forgo effect
 
 ## Contribute
-- If you'd like to assist in development including:
+- If you'd like to assist in development including but not limited to:
   - Card Design & Art
   - Translations
   - Programming (I am a software developer by trade, but have limited experience in Java & modding the StS engine
   - Playtesting (date TBD)
-  - Or any other way
-Please send an email to `fehrtyler5@gmail.com`
+  
+[The current design iteration is located in a Google sheet](https://docs.google.com/spreadsheets/d/1nlo_ZK-p52TDJvTKaFWhdVy_40qvma_audwZ7SVspgk/edit#gid=0). if you'd like to help, send an email to [tfehr@proton.me](mailto:tfehr@proton.me) for edit access
 
 ## Card Art
 
