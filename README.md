@@ -7,14 +7,14 @@
 ### Planned Content (WIP) 
 - 75 Cards with carefully crafted art (art made so far is down below)
 - 4 Relics + 2 Starting Relic Upgrades
+- Character-specific events
 
 ## Key Mechanics
-
-- Thrash: Spend 1 HP to play an attack, a card with Thrash or a card with Violent in your draw pile. The health cost increases by 1 for each additional Thrash in the same turn and resets at the start of your turn
-- Violent: Can be played by Thrash, regardless of card type. If played by thrash, continues the thrash chain
-- Rearm: Choose a card in your discard pile. Shuffle it into your draw pile
-- Flay: On taking losing HP from any source, lose HP equal to flay stacks. Every 3 times flay is triggered, add a flay stack to EVERYONE with flay.
-- Forgo: Discard a card to trigger its Forgo effect
+- **Thrash**: Spend 1 HP to play an attack, a card with Thrash or a card with Violent in your draw pile. The health cost increases by 1 for each additional Thrash in the same turn and resets at the start of your turn
+- **Violent**: Can be played by Thrash, regardless of card type. If played by thrash, continues the thrash chain
+- **Rearm**: Choose a card in your discard pile. Shuffle it into your draw pile
+- **Flay**: On taking losing HP from any source, lose HP equal to flay stacks. Every 3 times flay is triggered, add a flay stack to EVERYONE with flay.
+- **Forgo**: Discard a card to trigger its Forgo effect
 
 ## Contribute
 - If you'd like to assist in development including but not limited to:
