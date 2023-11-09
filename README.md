@@ -5,9 +5,9 @@
 - Both empowered and cursed with a near-inpenetrable suit of shape-shifting, enigmatic armor, The Encased makes use of devastating combos and brutal tactics to subjugate his opponents. The armor takes its toll though, and drains the wearer's health constantly.
 
 ### Planned Content (WIP) 
-- 75 Cards with carefully crafted art (art made so far is down below)
-- 4 Relics + 2 Starting Relic Upgrades
-- Character-specific events
+- 75 Originally designed cards using DALL·E 3 for art
+- 10 Originally designed relics (1 Starting, 1 Upgrade, 2 Rare, 2 Uncommon, 2 Common, 1 Shop, 1 Boss)
+- 2 Character-specific events
 
 ## Key Mechanics
 - **Thrash**: Spend 1 HP to play an attack, a card with Thrash or a card with Violent in your draw pile. The health cost increases by 1 for each additional Thrash in the same turn and resets at the start of your turn
